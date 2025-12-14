@@ -1,7 +1,7 @@
 # 📚 Class Routine & Attendance Management System
 
 <p align="center">
-  <img src="Image/" alt="Nothing to show" width="280" />
+  <img src="Image/crapplogo.png" alt="Nothing to show" width="280" />
 </p>
 
 <p align="center">
